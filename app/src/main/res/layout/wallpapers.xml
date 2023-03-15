@@ -17,7 +17,7 @@
         android:layout_width="match_parent"
         android:scaleType="centerCrop"
         android:id="@+id/wallpaper"
-        android:src="@mipmap/ic_launcher"
+        android:src="@drawable/set_wallpaper_background"
         android:layout_gravity="center_horizontal"
         android:layout_height="match_parent"/>
 
